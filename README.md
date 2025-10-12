@@ -94,6 +94,11 @@ class LinkPredictor(torch.nn.Module):
 
 ## Output
 
+<img width="834" height="561" alt="image" src="https://github.com/user-attachments/assets/c2677d59-b875-4869-b2e8-19c760cd07d6" />
+
+<img width="693" height="550" alt="image" src="https://github.com/user-attachments/assets/5b2ccc06-6cce-4240-88f8-08a7bea5f697" />
+
+<img width="931" height="610" alt="image" src="https://github.com/user-attachments/assets/869a326b-3afd-4eba-b4d0-a0982c568112" />
 
 ## Conclusion
   Overall, this study demonstrates the power and potential of heterogeneous graph neural networks as a transformative tool for integrating diverse biomedical data and accelerating translational research in complex diseases
