@@ -31,7 +31,7 @@
       *)Production Readiness: Device-agnostic, checkpoint-enabled, and robust to failures.
 
 ## Code Sample:
-```
+```py
 class DeeperGraphSAGEEncoder(torch.nn.Module):
     """
     A deeper, memory-optimized GNN encoder using SAGEConv.
